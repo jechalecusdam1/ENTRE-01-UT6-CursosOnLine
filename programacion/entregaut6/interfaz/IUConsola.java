@@ -2,7 +2,9 @@
  * Interfaz de texto
  *  
  */
- 
+package programacion.entregaut6.interfaz;
+import programacion.entregaut6.modelo.PlataformaCursos;
+import programacion.entregaut6.modelo.Nivel;
 import java.util.Scanner;
 import java.util.TreeSet;
 

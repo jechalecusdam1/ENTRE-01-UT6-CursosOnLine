@@ -1,13 +1,14 @@
 
 
- 
+package programacion.entregaut6.modelo;
+import programacion.entregaut6.modelo.Nivel;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 /**
  *  Modela un curso ofrecido por la plataforma
  *  on line
- *  @author Sergio Garrués Aizcorbe
+ *  @author Jaione Echalecu Sagasti
  */
 public class Curso
 {

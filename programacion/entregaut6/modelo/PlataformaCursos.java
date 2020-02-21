@@ -1,4 +1,6 @@
- 
+package programacion.entregaut6.modelo;
+import programacion.entregaut6.modelo.Nivel;
+import programacion.entregaut6.modelo.Curso;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -19,7 +21,7 @@ import java.util.TreeSet;
  * Las claves en el map se recuperan en orden alfabético y 
  * se guardan siempre en mayúsculas
  *
- * @author Sergio Garrués Aizcorbe
+ * @author Jaione Echalecu Sagasti
  */
 public class PlataformaCursos
 {
